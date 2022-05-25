@@ -1,0 +1,5 @@
+export const ERRO = 'ERRO'
+export const MENU = 'MENU'
+export const LIST_MENU = 'LIST_MENU'
+export const PESQUISA = 'PESQUISA'
+export const DELETAR = 'DELETAR'
